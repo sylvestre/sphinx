@@ -95,6 +95,9 @@ Bugs fixed
 * #6809: LaTeX: code-block in a danger type admonition can easily spill over
   bottom of page
 * #6793: texinfo: Code examples broken following "sidebar"
+* #6824: HTML search: If a search term is partially matched in the title and
+  fully matched in a text paragraph on the same page, the search does not
+  include this match.
 
 Testing
 --------
